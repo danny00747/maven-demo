@@ -1,12 +1,12 @@
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
-import org.junit.jupiter.api.Test;
+import org.junit.Test;
 
-class AppTest {
-
+public class AppTest 
+{
 	@Test
-	void test() {
-		fail("Not yet implemented");
-	}
-
+	public void testApp()
+    {
+        assertEquals(0,new App().calculateSomething());
+    }
 }
