@@ -1,9 +1,9 @@
-package test;
+package test.java;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 import org.junit.Test;
 
-import main.App;
+import main.java.App;
 
 public class AppTest {
 	

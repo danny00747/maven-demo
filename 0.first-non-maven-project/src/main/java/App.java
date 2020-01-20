@@ -1,4 +1,4 @@
-package main;
+package main.java;
 
 public class App {
 	
@@ -9,6 +9,7 @@ public class App {
 
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
+	
 	}
 
 	public int calculateSomething() {
