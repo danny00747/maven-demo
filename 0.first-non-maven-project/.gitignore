@@ -2,14 +2,13 @@
 .idea/
 *.iml
 
-# Maven export project folder
+# Maven 
 target/
 
-# Other files
-*.classpath
-*.metadata/
-*.settings/
-*.project
+# eclipse project file
+.settings/
+.classpath
+.project
 
 # Compiled class file
 *.class
