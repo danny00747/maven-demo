@@ -26,6 +26,8 @@
 
 # Maven export project folder
 target/
+maven-demo.iml
+out/
 
 # Other files
 .classpath
