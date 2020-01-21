@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="basic-maven-example-1.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/0.first-non-maven-project/target/basic-maven-example-1.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
